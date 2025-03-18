@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/What is React?.md",
+                "file": "React_Notes_Index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is React?"
+              "title": "React_Notes_Index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/What is React?.md",
+                "file": "React_Notes_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is React?"
+              "title": "Backlinks for React_Notes_Index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/What is React?.md",
+                "file": "React_Notes_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What is React?"
+              "title": "Outgoing links from React_Notes_Index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/What is React?.md",
+                "file": "React_Notes_Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What is React?"
+              "title": "Outline of React_Notes_Index"
             }
           }
         ]
@@ -170,11 +170,17 @@
   },
   "active": "4684204c2e539aab",
   "lastOpenFiles": [
+    "notes/Tailwind CSS in React.md",
     "React_Notes_Index.md",
+    "notes/Styled Components.md",
+    "notes/CSS Modules.md",
+    "notes/Components and Props.md",
+    "notes/JSX - JavaScript XML.md",
+    "notes/State and useState Hook.md",
+    "notes/What is React?.md",
     "React Notes.md",
     "README.md",
     "notes/Setting Up React.md",
-    "notes/What is React?.md",
     "Deploying React App on Netlify.md",
     "notes",
     "What is React?.md"
