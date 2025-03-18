@@ -41,25 +41,6 @@ React-Notes/
 
 ---
 
-## 🔄 How to Push Changes to GitHub
-
-1. **Initialize Git (if not already initialized)**
-
-   ```sh
-   git init
-   git add .
-   git commit -m "Added React notes"
-   ```
-
-2. **Connect to GitHub**
-   ```sh
-   git remote add origin YOUR_REPO_URL
-   git branch -M main
-   git push -u origin main
-   ```
-
----
-
 ## 📝 Contributing
 
 If you want to contribute:
