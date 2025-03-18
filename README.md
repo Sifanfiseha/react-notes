@@ -1,34 +1,29 @@
----
-
-### 📄 **README.md**
-
-```md
 # 📘 React Notes for Obsidian
 
 This repository contains a structured **React learning guide** designed for Obsidian. It helps you efficiently take notes on React concepts, hooks, state management, and more while keeping everything organized.
 
 ## 📂 Folder Structure
+
 ```
-
 React-Notes/
-│── React_Notes_Index.md # Main index file linking to all notes
-│── notes/ # Contains all detailed React topic notes
-│ ├── What_is_React.md
-│ ├── JSX.md
-│ ├── State_and_useState.md
-│ ├── React_Router_Basics.md
-│ ├── ... (more notes)
-
-````
+│── React_Notes_Index.md   # Main index file linking to all notes
+│── notes/                 # Contains all detailed React topic notes
+│   ├── What_is_React.md
+│   ├── JSX.md
+│   ├── State_and_useState.md
+│   ├── React_Router_Basics.md
+│   ├── ... (more notes)
+```
 
 ## 🚀 How to Use
 
 1. **Clone the Repository**
+
    ```sh
    git clone YOUR_REPO_URL
-````
+   ```
 
-Or download and extract the ZIP file.
+   Or download and extract the ZIP file.
 
 2. **Open in Obsidian**
 
