@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Notes.md",
+                "file": "notes/What is React?.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Notes"
+              "title": "What is React?"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Notes.md",
+                "file": "notes/What is React?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for React Notes"
+              "title": "Backlinks for What is React?"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Notes.md",
+                "file": "notes/What is React?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from React Notes"
+              "title": "Outgoing links from What is React?"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Notes.md",
+                "file": "notes/What is React?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of React Notes"
+              "title": "Outline of What is React?"
             }
           }
         ]
@@ -168,11 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6b8921bc483a081",
+  "active": "4684204c2e539aab",
   "lastOpenFiles": [
+    "React_Notes_Index.md",
+    "React Notes.md",
     "README.md",
     "notes/Setting Up React.md",
-    "React Notes.md",
     "notes/What is React?.md",
     "Deploying React App on Netlify.md",
     "notes",
