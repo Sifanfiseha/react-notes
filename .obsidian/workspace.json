@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React_Notes_Index.md",
-                "mode": "preview",
+                "file": "notes/What is React?.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React_Notes_Index"
+              "title": "What is React?"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "4684204c2e539aab",
   "lastOpenFiles": [
-    "notes/Tailwind CSS in React.md",
     "React_Notes_Index.md",
+    "notes/Tailwind CSS in React.md",
     "notes/Styled Components.md",
     "notes/CSS Modules.md",
     "notes/Components and Props.md",
