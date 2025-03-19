@@ -20,7 +20,7 @@ React-Notes/
 1. **Clone the Repository**
 
    ```sh
-   git clone YOUR_REPO_URL
+   git clone https://github.com/Sifanfiseha/react-notes
    ```
 
    Or download and extract the ZIP file.
