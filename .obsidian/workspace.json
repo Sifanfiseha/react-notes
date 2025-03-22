@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/What is React?.md",
+                "file": "React_Notes_Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is React?"
+              "title": "React_Notes_Index"
             }
           }
         ]
@@ -170,19 +170,32 @@
   },
   "active": "4684204c2e539aab",
   "lastOpenFiles": [
+    "notes/Deploying React App on Netlify.md",
     "React_Notes_Index.md",
+    "notes/Deploying React App on Vercel.md",
+    "notes/Fetching Data with Axios.md",
+    "notes/Fetching Data with Fetch API.md",
+    "notes/React Query for Data Fetching.md",
+    "notes/State Management with Redux.md",
+    "notes/React Performance Optimization.md",
+    "notes/React Context API.md",
+    "notes/Dynamic Routing.md",
+    "notes/Nested Routes.md",
+    "notes/React Router Basics.md",
+    "notes/Custom Hooks.md",
+    "notes/useContext - Global State.md",
+    "notes/useRef - Accessing DOM Elements.md",
+    "notes/useEffect - Side Effects.md",
+    "notes/Lists and Keys.md",
+    "notes/Conditional Rendering.md",
+    "notes/Event Handling.md",
+    "notes/State and useState Hook.md",
+    "notes/What is React?.md",
     "notes/Tailwind CSS in React.md",
     "notes/Styled Components.md",
     "notes/CSS Modules.md",
     "notes/Components and Props.md",
     "notes/JSX - JavaScript XML.md",
-    "notes/State and useState Hook.md",
-    "notes/What is React?.md",
-    "React Notes.md",
-    "README.md",
-    "notes/Setting Up React.md",
-    "Deploying React App on Netlify.md",
-    "notes",
-    "What is React?.md"
+    "notes"
   ]
 }
